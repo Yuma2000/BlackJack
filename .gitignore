@@ -1,6 +1,4 @@
 src_copy
-src_copy失敗したStateパターン
 *.class
-.DS_Store
 *.icloud
 .DS_Store
